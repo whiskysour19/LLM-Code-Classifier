@@ -5,6 +5,9 @@ Shi Luo sl7213
 Mentor: Ali Quidwai
 DS-UA 301, Professor Parijat Dube
 
+# Running The Demo
+Model Input: labeled_functionlv_embeddings.csv.zip
+This Model could be running on a Jupyter Notebook / Colab with GPU acceleration: Classifier_on_function_level_embeddings.ipynb
 
 # Project Overview
 ![Report_301Project_LLM_Code_Detector](https://github.com/whiskysour19/LLM-Code-Classifier/assets/65504210/6e4a6fbf-7636-49bf-b6f2-6100896f9d68)
